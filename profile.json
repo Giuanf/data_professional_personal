@@ -1,0 +1,312 @@
+{
+  "intro1": "Olá",
+  "intro2": "eu sou",
+  "name": "Giuan Ferreira",
+  "photo": "https://avatars.githubusercontent.com/u/76171709?v=4",
+  "job": "Dev Full Stack",
+  "location": "São Paulo - SP",
+  "phone": "+55 85 99143-9660",
+  "email": "giuanm@live.com",
+  "graduation1": "Estatística e Matemática Aplicada - UFC",
+  "graduation2": "Análise e Desenvolvimento de Sistemas - UNINASSAU",
+  "salutation": "Olá! Apenas para fins de personalização das páginas seguintes, você poderia se identificar?",
+  "nameCamp": "Nome",
+  "company": "Empresa",
+  "professional": "Profissional",
+  "experienceCamp": "Experiência",
+  "project": "Projetos",
+  "personal": "Pessoal",
+  "aboutme_camp": "Sobre mim",
+  "personality": "Personalidade",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Node",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Mysql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "MongoDB",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "language": "Idiomas",
+  "languages": [
+    "Português BR (nativo)",
+    "Inglês (B1)",
+    "Espanhol (A1)"
+  ],
+  "descPortfolio": "Portfólio",
+  "portfolio": [
+    {
+      "name": "Projeto realizado no bootcamp da DIO para a criação de uma Pokedex consumindo uma API para a consulta das informações dos pokemons",
+      "url": "https://github.com/giuanm/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Projeto realizado no bootcamp da DIO para a criação de uma página de portfolio e feito deploy por meio do GitHub",
+      "url": "https://github.com/giuanm/js-developer-portfolio",
+      "github": true
+    },
+    {
+      "name": "Projeto realizado no bootcamp da DIO para a criação de fonte de pesquisa de reposiórios no GitHub",
+      "url": "https://github.com/giuanm/Wiki_Git.git",
+      "github": true
+    }
+  ],
+  "experience": "Experiência Profissional",
+  "professionalExperience": [
+    {
+      "name": "Gestor de Planejamento / Indra - Minsait",
+      "period": "08/2015 - 01/2023",
+      "description": "Foi um prazer implantar projetos, trabalhar e desenvolver diversos analistas para ter um senso crítico e encontrar soluções."
+    },
+    {
+      "name": "Gestor de Planejamento / Plansul",
+      "period": "01/2015 - 07/2015",
+      "description": "Aqui tive minha primeira opotunidade como gestor, trabalhar e desenvolver a equipe de analistas para ter um senso crítico e encontrar soluções."
+    },
+    {
+      "name": "Analista de Planejamento / Indra - Minsait",
+      "period": "05/2011 - 10/2014",
+      "description": "Nesse projeto iniciei minha jornada como analista de planejamento, colocando em prática alguns conhecimentos de Estatística e aperfeiçoando minhas análises de dados."
+    }
+  ],
+  "contactForm": "Contato",
+  "contact": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/giuan/",
+      "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/giuanm",
+      "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+    }
+  ],
+  "targetingMsg": "Por onde você gostaria de iniciar?",
+  "post_personal":{
+  "general": [
+    {
+      "id": "1",
+      "name": "Sobre mim",
+      "media": "https://avatars.githubusercontent.com/u/76171709?v=4",
+      "type_media": "img",
+      "URLmedia": "https://www.linkedin.com/in/giuan/",
+      "description": "Explorador da vida em busca de novas experiências e aprendizados. Apaixonado por dança de salão (tango, zouk, forró e bachata), cozinhar, viajar, fazer novas amizades e dedicado a sempre aprender e conhecer algo novo. Atualmente moro em Malta até Fevereiro/2024. Graduado em Estatística e Matemática Aplica, Análise e Desenvolvimento de Sistemas. 2023 foi o ano que tirei para viver uma nova fase, viajar por muitos lugares, aprender Inglês, conhecer muita gente e poder compartilhar experiencias/cultura. Acredito no poder da positividade e no crescimento pessoal contínuo, adoro colocar em prática o que aprendo com Programação Neuro Linguistica (PNL). Sempre em busca de desafios e oportunidades para aprender e evoluir."
+    },
+    {
+      "id": "2",
+      "name": "Apoiador - INFJ-A / INFJ-T",
+      "media": "https://raw.githubusercontent.com/giuanm/new_portfolio/28cdad630849f3592847e459f3116ad8f025f1df/src/assets/icons/avatarPersonality.svg",
+      "type_media": "img",
+      "URLmedia": "https://www.16personalities.com/br/resultados/infj-a/x/1s9j25ype?utm_source=results-assertive-advocate&utm_medium=email&utm_campaign=br&utm_content=view-results",
+      "description": "Os Apoiadores (INFJ) podem ser o tipo de personalidade mais raro de todos, mas certamente não passam despercebidos. Idealistas e firmes em seus princípios, não basta viver uma vida sem grandes desafios, eles querem fazer a diferença com suas ações. Para alguém com a personalidade do Apoiador, o sucesso não significa dinheiro ou status, mas sim buscar realização, ajudar os outros e contribuir para mudanças positivas no mundo. Apesar de terem grandes objetivos e ambições, os Apoiadores estão longe de ser sonhadores passivos. Pessoas com esse tipo de personalidade dão importância à integridade e só ficam satisfeitas quando fazem o que julgam ser certo. Escrupulosos até a alma, eles vivem com uma compreensão clara dos seus valores e buscam sempre focar no que é essencial, mas não para os outros ou a sociedade, e sim de acordo com a sua própria sabedoria e intuição."
+    }
+  ],
+    "dance":[
+    {
+      "id": "3",
+      "name": "Dançar",
+      "media": "https://raw.githubusercontent.com/giuanm/new_portfolio/28cdad630849f3592847e459f3116ad8f025f1df/src/assets/icons/danca.jpeg",
+      "type_media": "img",
+      "URLmedia": "https://www.16personalities.com/br/resultados/infj-a/x/1s9j25ype?utm_source=results-assertive-advocate&utm_medium=email&utm_campaign=br&utm_content=view-results",
+      "description": "Um dos meus principais hobbies é dançar. Adoro uma dança de salão, meus favoritos são Tango, Forró, Bachata e Zouk. Desde que assisti uma aula demonstrativa em 2010, fiquei fascinado e não consegui resisti, apesar de nunca antes ter dançado, eu era muito desajeitado e não conseguia nem se quer iniciar um passo mais simples. Me dediquei até conseguir acompanhar a turma e dai em diante passei a conhecer muitas outras danças, começando por Forró, Zouk e Bachata. Depois passei para Bolero, Salsa, Samba, Tango, Soltinho, West Coast Swing (WCS), Roda de Cassino, Merengue e Kizomba. Foram muitos anos e amigos feitos atravez da dança. Hoje ainda continuo, não com a frequencia que tinha, mas sempre que vejo uma oportunidade de poder dançar com os meus quatro favoritos."
+    },
+    {
+      "id": "4",
+      "name": "Forró",
+      "media": "https://www.youtube.com/embed/mYa03J9MfqA?si=Kt_oR5Tchq7vsU0G",
+      "type_media": "video",
+      "URLmedia": "https://www.youtube.com/embed/mYa03J9MfqA?si=Kt_oR5Tchq7vsU0G",
+      "description": "O Forró é uma festa originária do estado de Pernambuco e disseminada na Região Nordeste do Brasil, muito popular e comum, especialmente nas festas juninas. O nome da festa forró é usado para nomear distintos gêneros musicais como o xote, baião, 'arrasta-pé' e o xaxado, por tanto quem não conhece suas histórias, as confundem com um gênero único. As músicas são executadas tradicionalmente por tres instrumentais como acordeão (Sanfona), zabumba e triângulo. Forró também é um dos gêneros musicais da festa forró, o qual foi criado por Luiz Gonzaga em 1958. A dança do xote (dois pra lá e dois pra cá) passou a acompanhar as músicas desse novo gênero e a ser chamada de dança do forró."
+    },
+    {
+      "id": "5",
+      "name": "Tango",
+      "media": "https://www.youtube.com/embed/AjOxBS1Gje4?si=qAAFdQQqvgEBENNF",
+      "type_media": "video",
+      "URLmedia": "https://www.youtube.com/embed/AjOxBS1Gje4?si=qAAFdQQqvgEBENNF",
+      "description": "O tango é uma dança parceira e social que se originou na década de 1880 ao longo do Río de la Plata, fronteira natural entre Argentina e Uruguai. O tango nasceu nas empobrecidas áreas portuárias desses países a partir de uma combinação de celebrações da milonga argentina, da habanera hispano-cubana e do candombe uruguaio. Era frequentemente praticado nos bordéis e bares dos portos, onde os empresários empregavam bandas para entreter os seus clientes. Depois se espalhou para o resto do mundo. Muitas variações desta dança existem atualmente em todo o mundo. Em 31 de agosto de 2009, a UNESCO aprovou uma proposta conjunta da Argentina e do Uruguai para incluir o tango nas Listas do Patrimônio Cultural Imaterial da UNESCO."
+    },
+    {
+      "id": "12",
+      "name": "Zouk",
+      "media": "https://www.youtube.com/embed/Iik2HgGkf3I?si=DLOTdjE4uwQses_f",
+      "type_media": "video",
+      "URLmedia": "https://www.youtube.com/embed/Iik2HgGkf3I?si=DLOTdjE4uwQses_f",
+      "description": "O zouk brasileiro evoluiu a partir da dança parceira conhecida como lambada. À medida que o gênero musical Lambada saiu de moda, os dançarinos da Lambada recorreram ao zouk caribenho (do francófono, Ilhas do Caribe) como sua música preferida. Foi essa transição que deu origem à dança conhecida como zouk brasileiro. O termo zouk brasileiro foi adotado para distinguir o estilo de dança do gênero musical zouk caribenho. Hoje em dia o termo zouk é comumente usado para se referir ao estilo de dança zouk brasileiro."
+    },
+    {
+      "id": "6",
+      "name": "Bachata",
+      "media": "https://www.youtube.com/embed/mYEp8BmXb5o?si=w6FxTpA9SfZJ_EqP",
+      "type_media": "video",
+      "URLmedia": "https://www.youtube.com/embed/mYEp8BmXb5o?si=w6FxTpA9SfZJ_EqP",
+      "description": "A Bachata também conhecido com seresta, é um gênero musical e uma dança originada na República Dominicana na década de 1960. Considerada um híbrido do bolero (sobre tudo, o bolero rítmico) com outras influências musicais como o chá-chá-chá e o tango. O bolero ritmo latino-americano no período de 1930 à 1950 fazia o prazer do povo dominicano e, com esta influência, nasceu a bachata no final da década de 1950, mas apenas na década de 1980 foi reconhecido e lançada mundialmente a fim de aumentar o turismo na ilha."
+    }
+  ],
+  "travel": [
+    {
+      "id": "7",
+      "name": "Faro - Portugal",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/Faro.jpg?raw=true",
+      "type_media": "img",
+      "URLmedia": "https://drive.google.com/drive/folders/1JYx4OghrYD_T8NlEdE642PQuTT1TOON5?usp=drive_link",
+      "description": "Faro é um município, cidade mais meridional e capital do distrito com o mesmo nome, na região do Algarve, no sul de Portugal. Com uma população estimada em 60.995 habitantes em 2019 (com 39.733 habitantes na própria cidade, o que a torna a maior cidade e o segundo município mais populoso do Algarve (depois de Loulé) e um dos maiores do Sul de Portugal), o município cobre uma área de cerca de 202,57 km2."
+    },
+    {
+      "id": "9",
+      "name": "Lisboa",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/Lisbon.jpg?raw=true",
+      "type_media": "img",
+      "URLmedia": "https://drive.google.com/drive/folders/1D7EuNiGH8fSLiqvtP-qEN-7JSecQdS19?usp=drive_link",
+      "description": "Lisboa é a capital e maior cidade de Portugal, com uma população estimada de 548.703 habitantes dentro dos seus limites administrativos numa área de 100 km2. Lisboa é a capital mais ocidental da Europa continental (a segunda no geral, depois de Reykjavik) e a única ao longo da costa atlântica, estando as outras (Reykjavik e Dublin) em ilhas. Lisboa é uma das cidades mais antigas do mundo e a segunda capital europeia mais antiga (depois de Atenas), antecedendo em séculos outras capitais europeias modernas. Após a queda do Império Romano, foi governado por uma série de tribos germânicas a partir do século V, principalmente os visigodos. Mais tarde foi capturada pelos Mouros no século VIII. Em 1147 Afonso Henriques conquistou a cidade e em 1255 tornou-se capital de Portugal, substituindo Coimbra. Desde então, tem sido o centro político, econômico e cultural do país."
+    },
+    {
+      "id": "10",
+      "name": "Malta",
+      "media": "https://www.youtube.com/embed/4fTUSK0R_T8?si=LnO1ixupoy95E4WB",
+      "type_media": "video",
+      "URLmedia": "https://www.google.com/search?sca_esv=602020555&sxsrf=ACQVn0_HQ0wz0H_N-17bXtIRM69BL6m0Jg:1706376371971&q=malta&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjBiYSsi_6DAxXFQfEDHS7KBbMQ0pQJegQIDRAB&biw=1536&bih=730&dpr=1.25",
+      "description": "Malta, oficialmente República de Malta, é um país insular localizado no Sul da Europa, cujo território ocupa as Ilhas Maltesas, um arquipélago situado no Mar Mediterrâneo, 93 km ao sul da ilha da Sicília (Itália) e 288 km a nordeste da Tunísia (África), 1 826 km a leste de Gibraltar e 1 510 km a oeste de Alexandria. Malta abrange uma área terrestre de 316 km², sendo um dos menores países da Europa, possuindo também a maior densidade demográfica do continente. Sua capital é Valeta e a maior cidade é Birkirkara. O Maltês é a língua nacional e o inglês é a língua co-oficial. Devido aos eventos históricos que se passaram ao longo dos anos, Malta tornou-se um país anglo-latino, pelas principais influências dos Impérios Romano e mais tarde Britânico, apesar de existir influências menores deixadas por outros reinos que passaram por Malta, como a Grécia e os Impérios Islamico e Bizantino e mais tarde a presença dos espanhóis e franceses. Malta é um dos países mais estratégicos na Europa e para a OTAN, como a Itália, Portugal, Turquia e outros. Malta também pode ser considerada como país anglo-latino por algumas parecenças do Maltês com outras línguas latinas e até com o próprio Latim, e também pela utilização do inglês por parte de alguns cidadãos, pela influência deixada pelos britânicos."
+    },
+    {
+      "id": "11",
+      "name": "Dublin",
+      "media": "https://www.youtube.com/embed/wIQsl64KgNI?si=nN8RdpZBzdwrvOoG",
+      "type_media": "video",
+      "URLmedia": "https://drive.google.com/drive/folders/1kL796hijfGCBkXMWNbXh7IQjocpF4rKI?usp=drive_link",
+      "description": "Dublin é a capital e maior cidade da Irlanda. O nome em inglês deriva da palavra irlandesa Dubhlinn, que significa Lago Negro. Tem uma população de 592 mil habitantes na cidade, e sua área metropolitana tem 1 263 219 habitantes. Fundada como um assentamento viquingue, foi o centro do Reino de Dublin e se tornou a principal cidade da Ilha após a invasão dos Normandos. A cidade cresceu de maneira rápida durante o século XVII; se tornou na época a segunda maior cidade do Império Britânico e a quinta maior da Europa. Dublin entrou em um período de estagnação após o Ato de União de 1800, mas continuou o centro econômico da Ilha. Após a Partição da Irlanda em 1922, virou a capital do Estado Livre Irlandês, e mais tarde, da República da Irlanda."
+    }
+  ]
+},
+"post_professional":{
+  "general": [
+    {
+      "id": "1",
+      "name": "Sobre mim",
+      "media": "https://avatars.githubusercontent.com/u/76171709?v=4",
+      "type_media": "img",
+      "URLmedia": "https://avatars.githubusercontent.com/u/76171709?v=4",
+      "description": "Olá, eu sou o Giuan, um profissional apaixonado por tecnologia e inovação, mais tecnicamente por desenvolvimento front-end e back end. Formação em Analise de Sistemas e Estatística, com percurso de carreira desenvolvido na coordenação de projetos BPO em grandes empresas dos setores de energia (Enel) e bancário (Caixa Econômica Federal). Doze anos de experiência na área de planeamento de sistemas de tráfego/atendimento, responsável pela coordenação, liderança e acompanhamento de projetos, assim como desenvolvimento de novos produtos e melhoria de processos e serviços. Gestão econômica dos projetos, com ampla interface com as áreas de negócios e IT. Relacionamento com múltiplos stakeholders, atuando em função de PO e coordenação de projetos. Experiência como web developer, em projetos independentes de construção de sites, com prática em JavaScript, Python e React. Vivência internacional, em intercâmbio de estudo e trabalho na Irlanda e em Malta."
+    }
+  ],
+    "project":[
+    {
+      "id": "2",
+      "name": "Projetos",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/Project.jpg?raw=true",
+      "type_media": "img",
+      "URLmedia": "https://www.linkedin.com/in/giuan/",
+      "description": "Nos ultimos anos venho desenvolvendo alguns projetos e publicando em meu GitHub. Logo abaixo vou disponibilizar alguns desses projetos e seus links para que possam ser visualizados juntamente com seus repositorios do GitHub. Caso tenham algum feedback, por favor me enviem por meio de um dos meus contatos disponiveis aqui na página."
+    },
+    {
+      "id": "3",
+      "name": "Pokedex",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/Pokedex.jpg?raw=true",
+      "type_media": "img",
+      "URLmedia": "https://giuanm.github.io/Pokedex/",
+      "description": "Qual o seu Pokemon favorito? Agora você pode procura-lo e saber suas principais informações aqui nessa página. São mais de 200, caso você não o encontre pode me acionar que verifico onde ele está, tenho certeza que será uma boa cassada 😂"
+    },
+    {
+      "id": "4",
+      "name": "Secret Words",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/icons/SecretWords.jpg?raw=true",
+      "type_media": "img",
+      "URLmedia": "https://giuanm.github.io/Secret_Words/",
+      "description": "Secret Words é um projeto que desenvolvi utilizando React, praticando criação de Hooks, conexão com bancos de dados, componentes e diferentes formas de utilização de CSS. Um aplicativo simples para praticar inglês com uma lista das palavras mais usadas naquele idioma (lista padrão) ou criando uma lista personalizada. Como forma de salvar os dados, utilizei localStorage e assim deixo os dados salvos no dispositivo que for acessado."
+    },
+    {
+      "id": "6",
+      "name": "Club do Livro",
+      "media": "https://www.youtube.com/embed/4F3nTWX5lrI?si=V5xlkW-M8GpqlzJP",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/Clube_do_livro2",
+      "description": "Book Club foi desenvolvido em NodeJS usando Express, Handlebars e MySQL. Neste projeto é possível cadastrar usuários com alguns tipos de validações, como validações de senha. Após o cadastro do usuário, será possível fazer login na plataforma e comentar um livro, adicionando o título do livro, o autor e um breve comentário sobre aquele livro. O CRUD foi criado para esses comentários. Na aba de visualização de comentários é possível ordenar por data de criação e pesquisar por título dos livros comentados."
+    },
+    {
+      "id": "7",
+      "name": "Giuan News",
+      "media": "https://www.youtube.com/embed/0KmxZh8C57M?si=Kp46-hH2pwFN_BI6",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/Giuan_News",
+      "description": "Este projeto é uma página de notícias que consome uma API pública. Todos os códigos foram criados através do Gemini. As solicitações foram feitas no prompt do Gemini informando uma API de notícias para serem consumidas seguindo algumas informações passadas em um formulário de busca por assunto e data."
+    },
+    {
+      "id": "8",
+      "name": "Sistema bancário",
+      "media": "https://www.youtube.com/embed/-pg7B8xWWrI?si=HAdfLd41T7Z27uC2",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/Sistema_Bancario",
+      "description": "Neste projeto construí um sistema bancário com algumas operações básicas, por exemplo, sacar, depositar e emitir extrato usando Python. Para esse sistema adicionei o validador de CPF ao tentar cadastrar um usuário, transferência PIX limitada apenas pelo valor do saldo da conta."
+    },
+    {
+      "id": "9",
+      "name": "Tela de cadastro da DIO",
+      "media": "https://www.youtube.com/embed/s0P4Op29Pck?si=eEzMg2JtElU-Gs2L",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/Tela_cadastro-DIO",
+      "description": "Este projeto consiste na criação de uma página de cadastro, login e feed inicial para a plataforma DIO utilizando React com TypeScrip. Após cadastrar um usuário, será possível efetuar login e acessar o feed do usuário."
+    },
+    {
+      "id": "5",
+      "name": "ToDo List",
+      "media": "https://github.com/giuanm/new_portfolio/blob/main/src/assets/ads/ads3.png?raw=true",
+      "type_media": "img",
+      "URLmedia": "https://giuanm.github.io/ToDoList/",
+      "description": "Um projeto desenvolvido em JavaScript Vanilla, HTML e CSS..."
+    },
+    {
+      "id": "10",
+      "name": "MentorIA",
+      "media": "https://www.youtube.com/embed/Jw5nNsKw2fg?si=Cm4L50QC6VyXmleH",
+      "type_media": "video",
+      "URLmedia": "https://github.com/giuanm/mentoria",
+      "description": "Este projeto foi desenvolvido quase inteiramente usando Gemini para construir o código. É feito com React, Python e MongoDB como banco de dados. As consultas são feitas através de uma API Gemini."
+    }
+  ],
+  "experience": [
+    {
+      "id": "6",
+      "name": "Indra Minsait",
+      "media": "https://portalerp.com/images/2022/07/27/indra-minsait-1jpg.jpeg",
+      "type_media": "img",
+      "URLmedia": "https://www.indracompany.com/pt-br/minsait",
+      "description": "Atuando como PO: Responsável pelo acompanhamento das etapas de projetos, desde reuniões com os stakeholders, alinhamentos com as equipes de desenvolvimento e Scrum Master até a entrega do solicitado. Levantamento de requisitos para desenvolvimento de novos produtos junto com a equipe de TI/desenvolvimento. Participação das dailys com os times de desenvolvimento. Acompanhar a entrega das stakes através do JIRA. Sempre que necessário alinhando prazos e entregas entre as equipes de desenvolvimento e stakeholders. Atuando como Gestor:  Gestão do projeto Enel, responsável pelo desenvolvimento da equipe com 5 analistas. Gestão do projeto Caixa - implementação do site Caixa Cartões em Maracanaú,-CE. Dimensionamento, estruturação, gestão da equipe de 8 analistas de tráfego (planejamento e Control Desk). Dimensionamento de recursos humanos, meios digitais e acompanhamento serviços web. Desenvolvimento de ferramentas e rotinas para o acompanhamento e tratamento do atendimento receptivo. Implementação e acompanhamento do setor de negócios (vendas). Acompanhamento de metas e resultados (KPI's), controlo Financeiro do contrato. Tecnologias: Power BI | Excel Avançado | SPSS - Statistics | R | Hipath (Siemens) | CMS (Avaya). Metodologia ágil: Kanban e Scrum"
+    }
+  ]
+}
+}
